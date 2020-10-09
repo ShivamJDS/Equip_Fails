@@ -14,6 +14,3 @@ Go to this link for blog related to this problem
 "All_Type_Of_Models" this folder contain ipynb in which I have attempted 4 diffrent type of machine learning algorithm
 "Stacking_Classifier" this folder contain ipynb file of our best model, this model is stacking classifier, this is trained only on 70% of training data.
 "Productionizable_Code" this is final ipynb file, this can be used directly to production.
-
-
-# Equip_Fails
